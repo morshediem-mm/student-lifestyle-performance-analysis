@@ -4,8 +4,6 @@
 
 A comprehensive statistical analysis examining the relationship between lifestyle factors and academic success among 2,000 university students. This project applies advanced statistical methods, including correlation analysis, Central Limit Theorem demonstration, and multiple sampling techniques, to identify key predictors of student performance.
 
-**Live Analysis:** [View HTML Report](link-will-be-added-later)
-
 ---
 
 ## Key Findings
@@ -24,7 +22,7 @@ A comprehensive statistical analysis examining the relationship between lifestyl
 - **Variables**: Study hours, sleep patterns, physical activity, social time, stress levels, grades
 - **Data Quality**: Clean dataset with 0% missing values
 
-**Note**: Dataset is included in this repository under Apache 2.0 license.
+**Note**: This repository includes the Dataset under Apache 2.0 license.
 
 ---
 
